@@ -21,6 +21,12 @@
   - MrLevRocks: Test Stage background assistance.
   - Savordez: Provided Memes.
   - Starz0r: Coding assistance.
+
+------------------------------------------
+
+# Getting Started / Help:
+  Make sure to visit the wiki for more informations regarding the framework.
+
   
   
   
