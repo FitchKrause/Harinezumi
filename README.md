@@ -1,7 +1,6 @@
 <p align="center">
-![GitHub Logo](https://i.imgur.com/Pkxje8G.png)
+  <img width="480" height="92" src="https://i.imgur.com/Pkxje8G.png">
 </p>
-
 
 # Harinezumi
   Harinezumi is the last and definitive version of the S8E engine.
