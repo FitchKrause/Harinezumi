@@ -1,5 +1,6 @@
+<p align="center">
 ![GitHub Logo](https://i.imgur.com/Pkxje8G.png)
-Format: ![Alt Text](url)
+</p>
 
 
 # Harinezumi
